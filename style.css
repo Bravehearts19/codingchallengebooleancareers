@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-image: url('Immagini Coding Challenge/background.jpg');
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 60%;
+  margin-top: 2%;
+  margin-left: 20%;
+  color: white;
+  border-radius: 5%;
+}
+
+header {
+  text-align: center;
+  image-align: center;
+  padding-top: 5%;
+}
+
+nav {
+  display: inline-block;
+  background-color: #00de01;
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+}
+
+h4 {
+  font-style: italic;
+}
+
+section {
+  padding-left: 10%;
+  line-height: 2em;
+  margin-top: 2%;
+}
+
+.logo {
+  width: 200px;
+}
+
+.monopattino-owner {
+  display: inline-block;
+}
+
+#title {
+  color: #00de01;
+  font-weight: 800;
+}
+
+#charge1 {
+  background-color: orange;
+  color: orange;
+  width: 45%;
+  border-radius: 5%;
+}
+
+#charge2 {
+  background-color: green;
+  color: green;
+  width: 65%;
+  border-radius: 5%;
+}
+
+#charge3 {
+  background-color: red;
+  color: red;
+  width: 25%;
+  border-radius: 5%;
+}
